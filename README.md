@@ -24,7 +24,7 @@ Just in case the failure of installation in Rhinoceros v5., **"dijkstra_gh.py"**
 
 After installation, open Rhinoceros and Grasshopper.
 
-Marching Cubes component will be under **Mesh > Triangulation**
+Marching Cubes component will be under **Mesh > Triangulation**.
 
 Decide the variables below and link them to the component: 
 
@@ -33,3 +33,5 @@ Decide the variables below and link them to the component:
     start : A vertex index for starting point
     
     target : A vertex index for target point
+
+Grasshopper pipe component can be linked to **shortestLine** output for a proper visualisation.
