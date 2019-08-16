@@ -19,3 +19,17 @@ Open Rhinoceros and Grasshopper.
 Drag **"Shortest_Path.ghuser"** file directly into the Grasshopper window.
 
 Just in case the failure of installation in Rhinoceros v5., **"dijkstra_gh.py"** code can be copied into GHPython component.
+
+## Usage
+
+After installation, open Rhinoceros and Grasshopper.
+
+Marching Cubes component will be under **Mesh > Triangulation**
+
+Decide the variables below and link them to the component: 
+
+    mesh : One mesh
+
+    start : A vertex index for starting point
+    
+    target : A vertex index for target point
