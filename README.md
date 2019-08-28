@@ -4,7 +4,9 @@ Dijkstra algorithm aims to create the shortest path on mesh faces with respect t
 
 ![](./images/dijkstra_gh.JPG)
 
-<img src="./images/horse-dijkstra.JPG" align="left" width="200">
+<img src="./images/horse-dijkstra.JPG" align="left" width="400">
+
+<img src="./images/man-dijkstra.JPG" align="right" width="400">
 
 ## Prerequisites
 
