@@ -2,9 +2,8 @@
 
 Dijkstra algorithm aims to create the shortest path on mesh faces with respect to vertex information.
 
-![](./images/dijkstra_gh.JPG)
+<img src="./images/dijkstra_gh.JPG" align="left" width="100">
 
-![](./images/horse-dijkstra.JPG)
 
 ## Prerequisites
 
