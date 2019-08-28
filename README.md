@@ -6,7 +6,7 @@ Dijkstra algorithm aims to create the shortest path on mesh faces with respect t
 
 <img src="./images/horse-dijkstra.JPG" align="left" width="400">
 
-<img src="./images/man-dijkstra.JPG" align="right" width="400">
+<img src="./images/man-dijkstra.JPG" align="right" width="300">
 
 ## Prerequisites
 
