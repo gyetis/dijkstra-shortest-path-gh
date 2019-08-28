@@ -4,6 +4,8 @@ Dijkstra algorithm aims to create the shortest path on mesh faces with respect t
 
 ![](./images/dijkstra_gh.JPG)
 
+![](./images/horse-dijkstra.JPG)
+
 ## Prerequisites
 
 Rhinoceros v.5/v.6
